@@ -7,8 +7,8 @@
 
 
 ## ♻ Stacks
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NiREvil&theme=cobalt2&show_icons=true&card_width=495px)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com?user=NiREvil&theme=windows-dark) 
+
+[![Streak stats](https://github-readme-streak-stats.herokuapp.com?user=NiREvil&theme=windows-dark) 
 [![](https://visitcount.itsvg.in/api?id=NiREvil&label=Profile%20Views&pretty=true)](https://github.com/NiREvil5thacc)
 
 
