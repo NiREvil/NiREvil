@@ -1,11 +1,15 @@
-### Hello guy's, I'm nima  ![icon-verified](https://img.icons8.com/color/20/verified-account--v1.png)![](./profile-3d-contrib/profile-gitblock.svg)
+### Hello guy's, I'm nima  ![icon-verified](https://img.icons8.com/color/20/verified-account--v1.png)
 
 ### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/> GitHub Profile
 
+![](./profile-3d-contrib/profile-night-view.svg)
+
+
+
 ## ♻ Stacks
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NiREvil&theme=git-dark&border_radius=3&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-[![Profile Visit](https://visitcount.itsvg.in/api?id=NiREvil&label=Profile%20Visit&color=0&icon=2&pretty=false)](https://github.com/NiREvil5thacc)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com?user=NiREvil&theme=windows-dark) 
+[![](https://visitcount.itsvg.in/api?id=NiREvil&label=Profile%20Views&pretty=true)](https://github.com/NiREvil5thacc)
 
 
 ## 🚬🗿 stay in touch
