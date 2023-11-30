@@ -4,9 +4,7 @@
 <!--
 **NiREvil5thacc/NiREvil5thacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ## ♻ Stacks
 
@@ -15,8 +13,6 @@ Here are some ideas to get you started:
 
 
 ## 🚬🗿 stay in touch
-
-
 
 [![icons8-GitHub-64](https://img.icons8.com/arcade/64/github.png)](https://github.com/NiREvil5thacc)
 [![icons8-LinkedIn-64](https://img.icons8.com/arcade/64/linkedin-circled.png)](https://au.linkedin.com/in/nirevil)
