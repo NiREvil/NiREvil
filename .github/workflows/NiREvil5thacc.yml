@@ -25,4 +25,4 @@ jobs:
           author_email: "actions@github.com"
           message: "Update Profile Summary"
           add: "."
-          push: "https://github.com/NiREvil5thacc/NiREvil5thacc.git
+          push: "https://github.com/NiREvil5thacc/NiREvil5thacc.git"
