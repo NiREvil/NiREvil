@@ -23,7 +23,7 @@
 
 ## 🚬🗿 stay in touch
 
-[![icons8-GitHub-64](https://img.icons8.com/arcade/64/github.png)](https://github.com/NiREvil5thacc)
+[![icons8-GitHub-64](https://img.icons8.com/arcade/64/github.png)](https://github.com/NiREvil)
 [![icons8-LinkedIn-64](https://img.icons8.com/arcade/64/linkedin-circled.png)](https://au.linkedin.com/in/nirevil)
 [![icons8-YouTube-64](https://img.icons8.com/arcade/64/youtube-play.png)](http://www.youtube.com/@NiREvil)
 [![icons8-gmail-64](https://img.icons8.com/arcade/64/gmail.png)](mailto:nirevil2020@gmail.com)
