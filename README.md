@@ -1,4 +1,4 @@
-### Hello guy's, I'm nima  ![icon-verified](https://img.icons8.com/color/20/verified-account--v1.png)
+### Hello guy's, ![icon-verified](https://img.icons8.com/color/20/verified-account--v1.png)
    Welcome to my GitHub Profile
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -7,11 +7,11 @@
 
 ## ♻ Stacks
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NiREvil5thacc&theme=windows-dark&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NiREvil&theme=gotham)](https://git.io/streak-stats)
 
 
 
-[![](https://visitcount.itsvg.in/api?id=NiREvil&label=Profile%20Views&pretty=true)](https://github.com/NiREvil5thacc)
+[![](https://visitcount.itsvg.in/api?id=NiREvil&label=Profile%20Views&pretty=true)](https://github.com/NiREvil)
 
 
 
