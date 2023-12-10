@@ -10,9 +10,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NiREvil&theme=windows-dark&type=png)](https://git.io/streak-stats)
 
 
-
-[![](https://visitcount.itsvg.in/api?id=NiREvil&label=Profile%20Views&pretty=true)](https://github.com/NiREvil5thacc)
-
+[![](https://visitcount.itsvg.in/api?id=NiREvil&label=Profile%20Visit&pretty=false)](https://visitcount.itsvg.in)
 
 
 
@@ -20,7 +18,7 @@
 
 
 
-
+------------------
 ## 🚬🗿 stay in touch
 
 [![icons8-GitHub-64](https://img.icons8.com/arcade/64/github.png)](https://github.com/NiREvil)
