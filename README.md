@@ -1,6 +1,12 @@
 ### Hello guy's, I'm nima ![icon-verified](https://img.icons8.com/color/20/verified-account--v1.png)
    Welcome to my GitHub Profile
 
+<p align="center">
+  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="1480px">
+</p>
+
+   
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
