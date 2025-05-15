@@ -1,24 +1,48 @@
-name: GitHub-Profile-3D-Contrib
+name: Update GitHub Profile
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "15 3,15 * * *"
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Commit Snake Animation
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dist/*.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
+
+      - name: Generate 3D Profile Contribution
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+        with:
+          output: profile-3d-contrib/profile-night-rainbow.svg
+
+      - name: Commit 3D Profile
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add profile-3d-contrib/*.svg
+          git commit -m "Update 3D profile contribution" || echo "No changes to commit"
           git push
