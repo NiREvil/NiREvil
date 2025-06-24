@@ -3,7 +3,7 @@
 </p><br><br/>  
 
 <p align="center">
-  <img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/snake.svg" width="100%" alt="Snake animation" />
+  <img src="profile-3d-contrib/snake.svg" width="100%" alt="Snake animation" />
 </p><br><br/>  
 
 <h2 align="center">$$\color{#7F3FBF} \large \text{GitHub Stats}$$</h2>
