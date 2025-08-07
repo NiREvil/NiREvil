@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=678CAC&center=true&vCenter=true&width=500&lines=User+Liberation;Building+the+future;Always+learning+always+growing;Welcome+to+my+GitHub+universe!" alt="Typing SVG" /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=42&duration=3000&pause=1000&color=678CAC&center=true&vCenter=true&width=500&lines=User+Liberation;Building+the+future;Always+learning+always+growing;Welcome+to+my+GitHub+universe!" alt="Typing SVG" /><br/>
 
 <p align="center">
   <img src="profile-3d-contrib/snake.svg" width="100%" alt="Snake animation" />
@@ -6,7 +6,7 @@
 
 <br><br/> 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira&size=38&duration=300&pause=3000&color=678CAC&center=true&vCenter=true&width=500&lines=About+Me" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=678CAC&center=true&vCenter=true&width=500&lines=About+Me" alt="Typing SVG" />
 
 ```typescript
 const nirevil = {
